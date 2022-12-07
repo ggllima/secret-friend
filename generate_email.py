@@ -50,7 +50,7 @@ Atenciosamente,
 <br>
 <br>
 
-<img alt="Footer" height="auto" src="https://static1.thetalkoimages.com/wordpress/wp-content/uploads/2016/12/Funny-Christmas-Memes-17-e1482256855640.jpg?q=50&fit=crop&w=480&h=300&dpr=1.5" style="border:none;display:block;outline:none;text-decoration:none;height:15%;width:15%;font-size:13px;" width="30" />
+<img alt="Footer" height="auto" src="https://raw.githubusercontent.com/ggllima/secret-friend/main/img/esther-footer.avif?token=GHSAT0AAAAAAB4CYTKGQS52I7BFD6VW4PIIY4P7UZA" style="border:none;display:block;outline:none;text-decoration:none;height:15%;width:15%;font-size:13px;" width="30" />
 """
 
 
