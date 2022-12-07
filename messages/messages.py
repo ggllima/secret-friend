@@ -1,7 +1,3 @@
-from generate_email import send_email
-from config_email import connection_email, host, port, login, password
-#from messages.messages import messages
-
 messages = """
 NENÊÊÊÊÊÊÊÊÊÊÊÊ! PEQUENININHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!
 <br>
@@ -20,8 +16,3 @@ Guilherme, Kenzo e Luis
 
 <img alt="Footer" height="auto" src="https://raw.githubusercontent.com/ggllima/secret-friend/main/img/esther-footer.avif?token=GHSAT0AAAAAAB4CYTKHIYTFDQ2N5TWDFF5MY4QA2UQ" style="border:none;display:block;outline:none;text-decoration:none;height:15%;width:15%;font-size:13px;" width="30" />
 """
-
-server = connection_email(host, port, login, password)
-
-
-send_email(server, login, ["ggllima@usp.br"], "teste",messages)
