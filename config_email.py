@@ -2,8 +2,6 @@
 import smtplib
 from data_account import infos
 
-print(infos['login'])
-
 # S M T P - Simples Mail transfer protocol
 # Para criar o servidor e enviar o e-mail
 # Conectar servidor SMTP
