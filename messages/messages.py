@@ -23,7 +23,7 @@ Guilherme, Kenzo e Luis (Kenzo e Luis não participaram da criação desse texto
 <img alt="Footer" height="auto" src="https://raw.githubusercontent.com/ggllima/secret-friend/main/img/esther-footer.avif?token=GHSAT0AAAAAAB4CYTKHIYTFDQ2N5TWDFF5MY4QA2UQ" style="border:none;display:block;outline:none;text-decoration:none;height:15%;width:15%;font-size:13px;" width="30" />
 """,
 'Guilherme':"""
-E ai cuzão, você quem criou essa merda, tá aqui seu amigo secreto:
+E ai cuzão, você quem criou essa merda, tá aqui seu amigo secreto: {}
 <br>
 <br>
 
